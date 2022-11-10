@@ -1,4 +1,4 @@
-// Copyright © 2015 Steve Francia <spf@spf13.com>.
+// Copyright © 2015 Steve Francia <spf@wlibo666.com>.
 // Copyright 2013 tsuru authors. All rights reserved.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -25,7 +25,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/spf13/afero/internal/common"
+	"github.com/wlibo666/afero/internal/common"
 )
 
 const FilePathSeparator = string(filepath.Separator)

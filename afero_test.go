@@ -1,4 +1,4 @@
-// Copyright © 2014 Steve Francia <spf@spf13.com>.
+// Copyright © 2014 Steve Francia <spf@wlibo666.com>.
 // Copyright 2009 The Go Authors. All rights reserved.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -592,7 +592,7 @@ func TestReaddir(t *testing.T) {
 	}
 }
 
-// https://github.com/spf13/afero/issues/169
+// https://github.com/wlibo666/afero/issues/169
 func TestReaddirRegularFile(t *testing.T) {
 	defer removeAllTestFiles(t)
 	for _, fs := range Fss {

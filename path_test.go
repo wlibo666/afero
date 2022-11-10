@@ -1,4 +1,4 @@
-// Copyright © 2014 Steve Francia <spf@spf13.com>.
+// Copyright © 2014 Steve Francia <spf@wlibo666.com>.
 // Copyright 2009 The Go Authors. All rights reserved.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");

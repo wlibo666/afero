@@ -1,4 +1,4 @@
-// Copyright ©2015 Steve Francia <spf@spf13.com>
+// Copyright ©2015 Steve Francia <spf@wlibo666.com>
 // Portions Copyright ©2015 The Hugo Authors
 //
 //

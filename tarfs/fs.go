@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/spf13/afero"
+	"github.com/wlibo666/afero"
 )
 
 type Fs struct {
